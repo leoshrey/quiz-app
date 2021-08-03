@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453958269826",
+    "project_id": "quizapp-f9f64",
+    "storage_bucket": "quizapp-f9f64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453958269826:android:3884ef70a9f80d16812d9b",
+        "android_client_info": {
+          "package_name": "com.leoshrey.testquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453958269826-ikhshrvvi443ie3mr0sghk8m6gupp420.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ3pJYToakMu8KxH-oq3P998zn6dw17kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453958269826-ikhshrvvi443ie3mr0sghk8m6gupp420.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
